@@ -1,0 +1,20 @@
+.component{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 3%;
+  }
+  .margin20{
+    margin: 20px;
+  }
+  .border{
+    border:1px solid #000;
+  }
+  .col-C-C{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    height: 100px;
+  }
